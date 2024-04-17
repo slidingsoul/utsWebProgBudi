@@ -10,4 +10,4 @@
 - Username DB: root
 - Password DB: 
 
-Untuk menjalankan bisa langsung menggunakan "php artisan serve" atau mengaktifkan XAMPP dan menaruh folder di htdocs
+Untuk menjalankan bisa langsung menggunakan "php artisan serve" atau mengaktifkan XAMPP dan menaruh folder di htdocs. Ingat untuk import file laravel.SQL di DB yang bernama laravel
